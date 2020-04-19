@@ -1,0 +1,49 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background: rgb(240, 189, 231);
+}
+
+h1 {
+  font-family: "Lora", serif;
+  color: rgb(9, 188, 224);
+}
+#wrapper {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 10px;
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+#card1 {
+  color: rgb(69, 219, 53);
+  font-family: "Girassol", cursive;
+  font-size: 30px;
+}
+#card2 {
+  color: rgb(156, 20, 22);
+  font-family: "Girassol", cursive;
+  font-size: 22px;
+}
+
+#card3 {
+  color: rgb(224, 195, 47);
+  font-family: "Girassol", cursive;
+  font-size: 22px;
+}
+
+#card4 {
+  color: rgb(85, 81, 148);
+  font-family: "Girassol", cursive;
+  font-size: 22px;
+}
+.omg {
+  color: orange;
+}
+.lol{
+  color:rgb(216, 222, 33)
+}
+
